@@ -27,6 +27,7 @@ Barrett's test library
 | **Member**    | **Type** | **Text**                      |
 | ------------- | -------- | ----------------------------- |
 | [CLCRTPG](https://github.com/barrettotte/IBM-RPG/blob/master/BOLIB/QCLLESRC/CLCRTPG.CLP) | CLP | Create MI program using QPRCRTPG API |
+| [JOBINFO](https://github.com/barrettotte/IBM-RPG/blob/master/BOLIB/QCLLESRC/JOBINFO.CLP) | CLP | Display some job and sys info |
 | [TESTMI01](https://github.com/barrettotte/IBM-RPG/blob/master/BOLIB/QCLLESRC/TESTMI01.CLP) | CLP | Test MI01 |
 
 
