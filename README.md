@@ -1,25 +1,24 @@
 # IBM-RPG
-Contains Notes/examples/programs for learning RPG, CL, DDS, and DB2 SQL on the IBMi. Code is found in [BOLIB/](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB) and is meant to mimic the way it is stored on the IBMi. Currently learning with V7R3.
+Contains Notes/examples/programs for learning RPG, CL, DDS, and DB2 SQL on the IBMi. 
 
+Code is found in [BOLIB/](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB) and is meant to mimic the way it is stored on the IBMi. 
 
-These notes and programs are being used in my book **Learning the IBMi as a Lowly Web Developer**;
+This repo will probably slowly die and get replaced by my eBook, **Learning the IBMi as a Lowly Web Developer**;
 located at https://barrettotte.github.io/IBMi-Book/#/
 
 
 ## Files/Directories
-| **Name**           | **Description** |
-| ------------------ | --------------- |
-| [BOLIB/](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB) | My IBMi Dev Library |
-| [BOLIB/QCLSRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QCLSRC) | My CL Programs |
-| [BOLIB/QCLLESRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QCLLESRC) | My CLLE Programs |
-| [BOLIB/QDDSSRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QDDSSRC) | My DDS Programs |
-| [BOLIB/QMISRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QMISRC) | My MI Programs |
+| **Name**                                                                              | **Description** |
+| ------------------------------------------------------------------------------------- | --------------- |
+| [BOLIB/](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB)                    | My IBMi Dev Library |
+| [BOLIB/QCLSRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QCLSRC)       | My CL Programs |
+| [BOLIB/QCLLESRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QCLLESRC)   | My CLLE Programs |
+| [BOLIB/QDDSSRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QDDSSRC)     | My DDS Programs |
+| [BOLIB/QMISRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QMISRC)       | My MI Programs |
 | [BOLIB/QRPGLESRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QRPGLESRC) | My RPGLE Fixed/Free Programs |
-| [BOLIB/QRPGSRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QRPGSRC) | My RPG Programs |
-| [DB2_SQL](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/DB2_SQL) | DB2 SQL Scripts |
-| [Notes/](https://github.com/barrettotte/IBM-RPG/blob/master/Notes/) | Dump of various notes. Varying quality |
-| [Notes/BCI433.md](https://github.com/barrettotte/IBM-RPG/blob/master/Notes/BCI433.md) | Notes for BCI433 IBMi Business Computing |
-| [snippets.iCMD](https://github.com/barrettotte/IBM-RPG/blob/master/snippets.iCMD) | IBMi command snippets |
+| [BOLIB/QRPGSRC](https://github.com/barrettotte/IBM-RPG/tree/master/BOLIB/QRPGSRC)     | My RPG Programs |
+| [Notes/](https://github.com/barrettotte/IBM-RPG/blob/master/Notes/)                   | Dump of various notes. Varying quality |
+| [Snippets/](https://github.com/barrettotte/IBM-RPG/blob/master/Snippets/)             | Random snippets |
 
 
 ## Screenshots
